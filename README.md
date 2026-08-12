@@ -53,13 +53,13 @@ Software Engineer [@Microsoft Security](https://github.com/microsoft).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2026 - To: 10 August 2026
+From: 04 August 2026 - To: 11 August 2026
 
-Other        5 hrs 54 mins         ████████▓░░░░░░░░░░░░░░░░   34.97 %
-Python       3 hrs 20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-Markdown     2 hrs 55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
-C#           1 hr 36 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-PowerShell   54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Other        4 hrs 11 mins         █████████░░░░░░░░░░░░░░░░   36.55 %
+Markdown     2 hrs 39 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
+Python       2 hrs 31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
+PowerShell   54 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+JSON         19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
